@@ -1,0 +1,14 @@
+{
+	"parent": "block/block",
+	"display": {
+		"head": {
+			"translation": [-0.01, -12.92, -0.01],
+			"scale": [2.292, 2.292, 2.292]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -15],
+			"scale": [2, 2, 2]
+		}
+	}
+}

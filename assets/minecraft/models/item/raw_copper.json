@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/raw_copper"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data":1707101}, "model": "gghe:block/cooking_pot"},
+    {"predicate": {"custom_model_data":1707102}, "model": "gghe:block/cooking_pot_with_water"},
+    {"predicate": {"custom_model_data":1707103}, "model": "gghe:block/cooking_pot_filled"},
+
+		{"predicate": {"custom_model_data":1707201}, "model": "gghe:item/cooking_pot"},
+    {"predicate": {"custom_model_data":1707202}, "model": "gghe:item/cooking_pot_filled"}
+	]
+}
