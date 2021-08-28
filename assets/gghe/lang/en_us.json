@@ -2,5 +2,7 @@
   "gghe.description": "",
 
   "gghe.item.backpack.name": "Backpack",
-  "gghe.item.cooking_pot.name": "Cooking Pot"
+  "gghe.item.cooking_pot.name": "Cooking Pot",
+  
+  "gghe.item.roast_chicken.name": "Roast Chicken"
 }

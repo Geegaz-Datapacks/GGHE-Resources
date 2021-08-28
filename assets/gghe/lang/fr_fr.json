@@ -1,4 +1,8 @@
 {
-  "gghe.description":"",
-  "gghe.item.backpack":"Sac à Dos"
+  "gghe.description": "",
+
+  "gghe.item.backpack.name": "Sac à Dos",
+  "gghe.item.cooking_pot.name": "Marmite",
+
+  "gghe.item.roast_chicken.name": "Poulet rôti"
 }
