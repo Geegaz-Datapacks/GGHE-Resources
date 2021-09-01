@@ -1,0 +1,13 @@
+{
+    "providers": [
+      {
+        "type": "bitmap",
+        "file": "minecraft:item/bowl.png",
+        "ascent": 12,
+        "height": 16.0,
+        "chars": [
+          "\ub170"
+        ]
+      }
+    ]
+  }

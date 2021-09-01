@@ -1,9 +1,11 @@
 {
   "gghe.description": "",
+  "gghe.icon.bowl": "\ub170",
 
-  "gghe.item.backpack.name": "Backpack",
   "gghe.item.cooking_pot.name": "Cooking Pot",
-  
+  "gghe.item.cooking_pot.recipe": "Recipe",
+  "gghe.item.backpack.name": "Backpack",
   "gghe.item.roast_chicken.name": "Roast Chicken",
-  "gghe.item.hot_cocoa.name": "Hot Cocoa"
+  "gghe.item.hot_cocoa.name": "Hot Cocoa",
+  "gghe.item.pumpkin_soup.name": "Pumpkin Soup"
 }

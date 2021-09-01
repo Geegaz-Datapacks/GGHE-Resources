@@ -5,6 +5,7 @@
   },
   "overrides": [
     {"predicate": {"custom_model_data":1707301}, "model": "gghe:item/roast_chicken"},
-    {"predicate": {"custom_model_data":1707302}, "model": "gghe:item/hot_cocoa"}
+    {"predicate": {"custom_model_data":1707302}, "model": "gghe:item/hot_cocoa"},
+    {"predicate": {"custom_model_data":1707303}, "model": "gghe:item/pumpkin_soup"}
 	]
 }
