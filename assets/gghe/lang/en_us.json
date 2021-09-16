@@ -7,5 +7,9 @@
   "gghe.item.backpack.name": "Backpack",
   "gghe.item.roast_chicken.name": "Roast Chicken",
   "gghe.item.hot_cocoa.name": "Hot Cocoa",
-  "gghe.item.pumpkin_soup.name": "Pumpkin Soup"
+  "gghe.item.pumpkin_soup.name": "Pumpkin Soup",
+  "gghe.item.herbal_tea.name": "Herbal Tea",
+  "gghe.item.salmon_filet.name": "Salmon Filet",
+  "gghe.item.red_borscht.name": "Red Borsht",
+  "gghe.item.fish_stew.name": "Fish Stew"
 }

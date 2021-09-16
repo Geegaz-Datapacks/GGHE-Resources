@@ -6,6 +6,10 @@
   "overrides": [
     {"predicate": {"custom_model_data":1707301}, "model": "gghe:item/roast_chicken"},
     {"predicate": {"custom_model_data":1707302}, "model": "gghe:item/hot_cocoa"},
-    {"predicate": {"custom_model_data":1707303}, "model": "gghe:item/pumpkin_soup"}
+    {"predicate": {"custom_model_data":1707303}, "model": "gghe:item/pumpkin_soup"},
+    {"predicate": {"custom_model_data":1707304}, "model": "gghe:item/herbal_tea"},
+    {"predicate": {"custom_model_data":1707305}, "model": "gghe:item/salmon_filet"},
+    {"predicate": {"custom_model_data":1707306}, "model": "gghe:item/red_borscht"},
+    {"predicate": {"custom_model_data":1707307}, "model": "gghe:item/fish_stew"}
 	]
 }

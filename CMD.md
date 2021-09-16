@@ -53,4 +53,9 @@
 ### Recipes
 - **301** - Roast Chicken
 - **302** - Hot Cocoa
+- **303** - Pumpkin Soup
+- **304** - Herbal Tea
+- **305** - Salmon Filet
+- **306** - Red Borsht
+- **307** - Fish Stew
 - ...

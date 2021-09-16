@@ -7,5 +7,9 @@
   "gghe.item.backpack.name": "Sac à Dos",
   "gghe.item.roast_chicken.name": "Poulet rôti",
   "gghe.item.hot_cocoa.name": "Chocolat chaud",
-  "gghe.item.pumpkin_soup.name": "Soupe de citrouille"
+  "gghe.item.pumpkin_soup.name": "Soupe de citrouille",
+  "gghe.item.herbal_tea.name": "Infusion",
+  "gghe.item.salmon_filet.name": "Filet de saumon",
+  "gghe.item.red_borscht.name": "Borsht",
+  "gghe.item.fish_stew.name": "Soupe de poisson"
 }
