@@ -2,14 +2,18 @@
   "gghe.description": "",
   "gghe.icon.bowl": "\ub170",
 
-  "gghe.item.cooking_pot.name": "Cooking Pot",
+  "gghe.item.cooking_pot": "Cooking Pot",
   "gghe.item.cooking_pot.recipe": "Recipe",
-  "gghe.item.backpack.name": "Backpack",
-  "gghe.item.roast_chicken.name": "Roast Chicken",
-  "gghe.item.hot_cocoa.name": "Hot Cocoa",
-  "gghe.item.pumpkin_soup.name": "Pumpkin Soup",
-  "gghe.item.herbal_tea.name": "Herbal Tea",
-  "gghe.item.salmon_filet.name": "Salmon Filet",
-  "gghe.item.red_borscht.name": "Red Borsht",
-  "gghe.item.fish_stew.name": "Fish Stew"
+  
+  "gghe.item.roast_chicken": "Roast Chicken",
+  "gghe.item.hot_cocoa": "Hot Cocoa",
+  "gghe.item.pumpkin_soup": "Pumpkin Soup",
+  "gghe.item.herbal_tea": "Herbal Tea",
+  "gghe.item.salmon_filet": "Salmon Filet",
+  "gghe.item.red_borscht": "Red Borsht",
+  "gghe.item.fish_stew": "Fish Stew",
+  "gghe.item.umbrella": "Umbrella",
+  "gghe.item.backpack": "Backpack",
+  "gghe.item.colored_umbrella": "%s %s",
+  "gghe.item.colored_backpack": "%s %s"
 }
