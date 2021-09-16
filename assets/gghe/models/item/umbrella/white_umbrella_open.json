@@ -1,0 +1,6 @@
+{
+	"parent":"gghe:item/umbrella/base_open",
+	"textures": {
+		"0": "gghe:item/umbrella/white_umbrella"
+	}
+}

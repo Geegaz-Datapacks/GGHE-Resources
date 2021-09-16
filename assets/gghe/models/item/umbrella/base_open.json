@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
+	"parent": "gghe:item/umbrella/base",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "gghe:item/umbrella",
-		"particle": "gghe:item/umbrella"
+		"particle": "gghe:item/stick"
 	},
 	"elements": [
 		{
@@ -53,5 +53,25 @@
 			}
 		}
 	],
-	"display": {}
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [45, 45, 0],
+			"translation": [0, 3, 3]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [45, 45, 0],
+			"translation": [0, 3, 3]
+		},
+		"firstperson_righthand": {
+			"rotation": [6, -12, 0],
+			"translation": [3, 8, 0],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"firstperson_lefthand": {
+			"rotation": [6, -12, 0],
+			"translation": [3, 8, 0],
+			"scale": [0.75, 0.75, 0.75]
+		}
+	}
 }

@@ -14,41 +14,41 @@
 - ...
 
 ### Backpacks
-- **210** - Backpack
-- **211** - Black Backpack
-- **212** - Gray Backpack
-- **213** - Light Gray Backpack
-- **214** - White Backpack
-- **215** - Yellow Backpack
-- **216** - Orange Backpack
-- **217** - Brown Backpack
-- **218** - Red Backpack
-- **219** - Pink Backpack
-- **220** - Magenta Backpack
-- **221** - Purple Backpack
-- **222** - Blue Backpack
-- **223** - Cyan Backpack
-- **224** - Light Blue Backpack
-- **225** - Lime Backpack
-- **226** - Green Backpack
+- **210** - Backpack - Open Backpack (with damage)
+- **211** - Black Backpack - Open Black Backpack (with damage)
+- **212** - Gray Backpack - Open Gray Backpack (with damage)
+- **213** - Light Gray Backpack - Open Light Gray Backpack (with damage)
+- **214** - White Backpack - Open White Backpack (with damage)
+- **215** - Yellow Backpack - Open Yellow Backpack (with damage)
+- **216** - Orange Backpack - Open Orange Backpack (with damage)
+- **217** - Brown Backpack - Open Brown Backpack (with damage)
+- **218** - Red Backpack - Open Red Backpack (with damage)
+- **219** - Pink Backpack - Open Pink Backpack (with damage)
+- **220** - Magenta Backpack - Open Magenta Backpack (with damage)
+- **221** - Purple Backpack - Open Purple Backpack (with damage)
+- **222** - Blue Backpack - Open Blue Backpack (with damage)
+- **223** - Cyan Backpack - Open Cyan Backpack (with damage)
+- **224** - Light Blue Backpack - Open Light Blue Backpack (with damage)
+- **225** - Lime Backpack - Open Lime Backpack (with damage)
+- **226** - Green Backpack - Open Green Backpack (with damage)
 
-- **230** - Open Backpack
-- **231** - Open Black Backpack
-- **232** - Open Gray Backpack
-- **233** - Open Light Gray Backpack
-- **234** - Open White Backpack
-- **235** - Open Yellow Backpack
-- **236** - Open Orange Backpack
-- **237** - Open Brown Backpack
-- **238** - Open Red Backpack
-- **239** - Open Pink Backpack
-- **240** - Open Magenta Backpack
-- **241** - Open Purple Backpack
-- **242** - Open Blue Backpack
-- **243** - Open Cyan Backpack
-- **244** - Open Light Blue Backpack
-- **245** - Open Lime Backpack
-- **246** - Open Green Backpack
+### Umbrellas
+- **231** - Black Umbrella - Open Black Umbrella (with blocking)
+- **232** - Gray Umbrella - Open Gray Umbrella (with blocking)
+- **233** - Light Gray Umbrella - Open Light Gray Umbrella (with blocking)
+- **234** - White Umbrella - Open White Umbrella (with blocking)
+- **235** - Yellow Umbrella - Open Yellow Umbrella (with blocking)
+- **236** - Orange Umbrella - Open Orange Umbrella (with blocking)
+- **237** - Brown Umbrella - Open Brown Umbrella (with blocking)
+- **238** - Red Umbrella - Open Red Umbrella (with blocking)
+- **239** - Pink Umbrella - Open Pink Umbrella (with blocking)
+- **240** - Magenta Umbrella - Open Magenta Umbrella (with blocking)
+- **241** - Purple Umbrella - Open Purple Umbrella (with blocking)
+- **242** - Blue Umbrella - Open Blue Umbrella (with blocking)
+- **243** - Cyan Umbrella - Open Cyan Umbrella (with blocking)
+- **244** - Light Blue Umbrella - Open Light Blue Umbrella (with blocking)
+- **245** - Lime Umbrella - Open Lime Umbrella (with blocking)
+- **246** - Green Umbrella - Open Green Umbrella (with blocking)
 
 ### Recipes
 - **301** - Roast Chicken

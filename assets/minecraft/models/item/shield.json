@@ -47,6 +47,8 @@
                 "blocking": 1
             },
             "model": "item/shield_blocking"
-        }
+        },
+        {"predicate": {"custom_model_data":1707231}, "model": "gghe:item/umbrella/white_umbrella"},
+        {"predicate": {"custom_model_data":1707231,"blocking":1}, "model": "gghe:item/umbrella/white_umbrella_open"}
     ]
 }
