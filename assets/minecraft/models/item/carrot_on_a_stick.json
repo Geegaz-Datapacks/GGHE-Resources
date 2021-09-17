@@ -5,6 +5,8 @@
   },
   "overrides": [
     {"predicate": {"custom_model_data":1707210}, "model": "gghe:item/backpack"},
-    {"predicate": {"custom_model_data":1707210,"damage":0.04,"damaged":0}, "model": "gghe:item/open_backpack"}
+    {"predicate": {"custom_model_data":1707210,"damage":0.04,"damaged":0}, "model": "gghe:item/open_backpack"},
+
+    {"predicate": {"custom_model_data":1707231}, "model": "gghe:item/umbrella/white_umbrella_open"}
 	]
 }
