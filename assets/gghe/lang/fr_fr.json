@@ -12,8 +12,6 @@
   "gghe.item.salmon_filet": "Filet de saumon",
   "gghe.item.red_borscht": "Borscht",
   "gghe.item.fish_stew": "Soupe de poisson",
-  "gghe.item.umbrella": "Parasol",
   "gghe.item.backpack": "Sac à dos",
-  "gghe.item.colored_umbrella": "%2$s %1$s",
-  "gghe.item.colored_backpack": "%2$s %1$s"
+  "gghe.item.white_umbrella": "Parasol Blanc"
 }
