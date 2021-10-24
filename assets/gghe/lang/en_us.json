@@ -10,10 +10,8 @@
   "gghe.item.pumpkin_soup": "Pumpkin Soup",
   "gghe.item.herbal_tea": "Herbal Tea",
   "gghe.item.salmon_filet": "Salmon Filet",
-  "gghe.item.red_borscht": "Red Borsht",
+  "gghe.item.red_borscht": "Red Borscht",
   "gghe.item.fish_stew": "Fish Stew",
-  "gghe.item.umbrella": "Umbrella",
   "gghe.item.backpack": "Backpack",
-  "gghe.item.colored_umbrella": "%s %s",
-  "gghe.item.colored_backpack": "%s %s"
+  "gghe.item.white_umbrella": "White Umbrella"
 }

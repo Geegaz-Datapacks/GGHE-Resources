@@ -4,15 +4,14 @@
 
   "gghe.item.cooking_pot": "Marmite",
   "gghe.item.cooking_pot.recipe": "Recette",
+  
   "gghe.item.roast_chicken": "Poulet rôti",
   "gghe.item.hot_cocoa": "Chocolat chaud",
   "gghe.item.pumpkin_soup": "Soupe de citrouille",
   "gghe.item.herbal_tea": "Infusion",
   "gghe.item.salmon_filet": "Filet de saumon",
-  "gghe.item.red_borscht": "Borsht",
+  "gghe.item.red_borscht": "Borscht",
   "gghe.item.fish_stew": "Soupe de poisson",
-  "gghe.item.umbrella": "Parasol",
   "gghe.item.backpack": "Sac à dos",
-  "gghe.item.colored_umbrella": "%2$s %1$s",
-  "gghe.item.colored_backpack": "%2$s %1$s"
+  "gghe.item.white_umbrella": "Parasol Blanc"
 }
